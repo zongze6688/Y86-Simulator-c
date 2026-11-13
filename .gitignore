@@ -1,0 +1,5 @@
+temp_answer
+*.o
+/cpu
+/cpu_answer
+__pycache__/
